@@ -4,7 +4,9 @@ pandas
 scikit-learn
 dlib
 face_recognition
-supabase
+supabase==2.10.0
+gotrue==2.9.0
+httpx==0.27.0
 bcrypt
 segno
 pillow
