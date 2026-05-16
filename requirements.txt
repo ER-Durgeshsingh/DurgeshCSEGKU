@@ -5,8 +5,6 @@ scikit-learn
 dlib
 face_recognition
 supabase==2.10.0
-gotrue==2.9.0
-httpx==0.27.0
 bcrypt
 segno
 pillow
@@ -14,3 +12,28 @@ librosa
 resemblyzer
 fpdf2
 openpyxl
+
+streamlit
+# Utilitites 
+numpy
+pandas
+
+# FACE RECOGNITION
+scikit-learn
+dlib-bin
+git+https://github.com/ageitgey/face_recognition_models
+setuptools<70.0.0
+
+fpdf
+supabase
+bcrypt
+
+
+
+segno
+pillow
+
+
+
+librosa
+resemblyzer
