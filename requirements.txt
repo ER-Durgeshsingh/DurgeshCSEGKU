@@ -2,8 +2,8 @@ streamlit
 numpy
 pandas
 scikit-learn
-dlib
 face_recognition
+dlib-bin
 supabase==2.10.0
 bcrypt
 segno
@@ -12,28 +12,5 @@ librosa
 resemblyzer
 fpdf2
 openpyxl
-
-streamlit
-# Utilitites 
-numpy
-pandas
-
-# FACE RECOGNITION
-scikit-learn
-dlib-bin
-git+https://github.com/ageitgey/face_recognition_models
 setuptools<70.0.0
-
-fpdf
-supabase
-bcrypt
-
-
-
-segno
-pillow
-
-
-
-librosa
-resemblyzer
+git+https://github.com/ageitgey/face_recognition_models
